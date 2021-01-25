@@ -125,6 +125,6 @@ https://git-scm.com/downloads/guis
 
 # **Congratulation!!** you learned new stuff 
 
-you can share this infromation with your friends just copy this link !! https://mohdazzam.github.io/-reading-notes/read02b 
+you can share this information with your friends just copy this link !! https://mohdazzam.github.io/-reading-notes/read02b 
 
 also you can go back to our Home page  [Markdown](https://mohdazzam.github.io/-reading-notes)
