@@ -26,7 +26,7 @@ Growth mindset | Fixed mindset
 I can learn any thing  | I can't learn new things
 
 
-
+If you want to learn about Markdown ()[https://mohdazzam.github.io/-reading-notes/summarizes]
 
 
 
