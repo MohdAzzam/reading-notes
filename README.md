@@ -16,7 +16,7 @@ __As we say it's all about **Hard Work**__
 
 ![image](https://stickybranding.com/wp-content/uploads/2019/01/SBQ-Hard-Work-946x532.jpg)
 
-As all Ways people said:
+As all wise people said:
 
 > `Google` always help you up , they don't let you down  [Google it](https://www.google.com/)
  
