@@ -38,10 +38,10 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 
 
 
-### There is some qustion to check the information you learn 
+### There is some question  to check the information you learn 
 1. How to insert an image in Markdown ? ______________________
 1. How to make the font **Bold** in Markdown? _________________________ 
-1. How to make an inorder list in Markdown ? _______________________ 
+1. How to make an unorder  list in Markdown ? _______________________ 
 
 
 
