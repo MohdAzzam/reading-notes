@@ -31,7 +31,7 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
     start with (1.)
 
 * Images 
-  start with **![right the name here ](the link to image here)** 
+  start with **_![right the name here ](the link to image here)_** 
 * Link  **[right the name here ](the link to site gose here)** 
   
 
