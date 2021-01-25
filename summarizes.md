@@ -21,8 +21,8 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 (######)This is an <h6> tag`
 * Emphasis
   `
-  * (**) between two stars you can write in  *italic font*
-  * (****) start with two star and end with two you can write in **Bold font** 
+  * `(**) between two stars you can write in  *italic font*`
+  * `(****) start with two star and end with two you can write in **Bold font** `
   `
 * Lists 
   * Unordered :
@@ -31,8 +31,8 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
     start with (1.)
 
 * Images 
-  start with **_![right the name here ](the link to image here)_** 
-* Link  **[right the name here ](the link to site gose here)** 
+  `start with **![right the name here ](the link to image here)** `
+* `Link  **[right the name here ](the link to site gose here)** `
   
 
 
