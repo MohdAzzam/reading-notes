@@ -5,7 +5,7 @@ You can Find me out on :
  
 
 ### Growth mindset :
-_You can Learn whateever you want and you can do anything. There is nothing posibale, it's just about hard working_
+_You can Learn whateever you want and you can do anything. There is nothing possible, it's just about hard working_
 
 ##### Growth Reminder 
 * I can and I will do it.
