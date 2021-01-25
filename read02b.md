@@ -104,10 +104,10 @@ You can try installing Git via your distribution’s inherent package management
 
 For Fedora:
 
-$ sudo yum install git
+`$ sudo yum install git`
 For Ubuntu:
 
-$ sudo apt-get install git
+`$ sudo apt-get install git`
 Git Website
 
 To download Git for Linux, visit this link and follow the posted directions:
@@ -136,20 +136,20 @@ After installing Git, users should immediately set the user name and email addre
 
 Type the following into Terminal or Command Line:
 
-git config --global user.name "Jane Smith"
+`git config --global user.name "Jane Smith"
 
 git config --global user.email "example@email.com"
 To confirm that you have the correct settings, enter the following command:
 
 git config --global user.name (should return Jane Smith)
 
-git config --global user.email (should return example@email.com)
+git config --global user.email (should return example@email.com)`
 *By using the –global option, these Git settings apply to anything on the system. To use different identity settings for a specific project, change the working directory to the desired local Git repository and repeat the steps above without using –global.
 
 Default Text Editor
 Without configuration of a default text editor, Git will use the system’s default editor–most likely Vim. To configure a different text editor, such as Emacs, type the following into your Terminal or Command Line:
 
-$ git config --global core.editor emacs
+`$ git config --global core.editor emacs`
 
 Note: For some editors, you may need to find specific instructions for default configuration.
 
