@@ -45,7 +45,7 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 
 
 
-# **WOW!!** you did it *congratulation*.
+# **Congratulation!!** you learned new stuff 
 
 you can share this infromation with your friends just copy this link !! https://mohdazzam.github.io/-reading-notes/read02a 
 
