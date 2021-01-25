@@ -2,7 +2,7 @@ This is Mohammad Alazzam Im a software Enginner Love to Learn about any thing in
 You can Find me out on :
 * `FaceBook` [Facebook](https://www.facebook.com/show.bfhmk)
 * `Github` [Github](https://github.com/MohdAzzam)
- 
+* `LinkedIn`[LinkedIn](https://www.linkedin.com/in/malazzam94/) 
 
 ### Growth mindset :
 _You can Learn whateever you want and you can do anything. There is nothing impossible, it's just about hard working_
