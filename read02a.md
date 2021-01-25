@@ -47,7 +47,7 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 
 # **WOW!!** you did it *congratulation*.
 
-you can share this infromation with your friends just copy this link !! https://mohdazzam.github.io/-reading-notes/summarizes 
+you can share this infromation with your friends just copy this link !! https://mohdazzam.github.io/-reading-notes/read02a 
 
 also you can go back to our Home page  [Markdown](https://mohdazzam.github.io/-reading-notes)
 
