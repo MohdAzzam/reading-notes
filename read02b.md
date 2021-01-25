@@ -121,3 +121,10 @@ GUI Clients
 You can access a variety of GUI clients for Mac, Windows, and Linux via the following link:
 
 https://git-scm.com/downloads/guis
+
+
+# **Congratulation!!** you learn about new stuff  
+
+you can share this infromation with your friends just copy this link !! https://mohdazzam.github.io/-reading-notes/read02b 
+
+also you can go back to our Home page  [Markdown](https://mohdazzam.github.io/-reading-notes)
