@@ -1,6 +1,7 @@
 This is Mohammad Alazzam Im a software Enginner Love to Learn about any thing in this world !! 
-You can Find me out on `FaceBook` [Facebook](https://www.facebook.com/show.bfhmk)
-                       `Github` [Github](https://github.com/MohdAzzam)
+You can Find me out on :
+* `FaceBook` [Facebook](https://www.facebook.com/show.bfhmk)
+* `Github` [Github](https://github.com/MohdAzzam)
  
 
 ### Growth mindset :
