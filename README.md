@@ -1,4 +1,6 @@
-# reading-notes
+This is Mohammad Alazzam Im a software Enginner Love to Learn about any thing in this world !! 
+You can Find me on `FaceBook` [Facebook](https://www.facebook.com/show.bfhmk)
+
 
 ### Growth mindset :
 _You can Learn whateever you want and you can do anything. There is nothing posibale, it's just about hard working_
@@ -19,7 +21,10 @@ As all Ways people said:
  
 Growth mindset | Fixed mindset
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+I can learn any thing  | I can't learn new things
+
+
+
+
 
 
