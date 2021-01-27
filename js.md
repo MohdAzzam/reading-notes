@@ -58,10 +58,10 @@ You can use the JS to :
 
 ###### Operators
 > Expression relay on somthing called operators 
-    * the type of it :
-        1. Assigment operators `color = "red"`
-        1. Arithmatic operators `area = 3 * 2`
-        1. String operators `name = "mohammad" + "Azzam" `
-        1. Comparison operators `b = 3 > 5` the value True or False
-        1. Logical operators  `ax = (5>3) &&  (3 <5 )` it's return false if one of them false and true if both of them are true
+* the type of it :
+    1. Assigment operators `color = "red"`
+    1. Arithmatic operators `area = 3 * 2`
+    1. String operators `name = "mohammad" + "Azzam" `
+    1. Comparison operators `b = 3 > 5` the value True or False
+    1. Logical operators  `ax = (5>3) &&  (3 <5 )` it's return false if one of them false and true if both of them are true
  
