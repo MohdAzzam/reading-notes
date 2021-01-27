@@ -7,7 +7,7 @@ intresting,and user friendly
 > JavaScript is a programing language.
 
 ### First thing first :
- you will need a basic knowldge to now how to build webpages using **HTML and CSS**
+ you will need a basic knowldge to know how to build webpages using **HTML and CSS**
 
 ### After that :
 You know about :
@@ -26,3 +26,15 @@ You can use the JS to :
 
 > Befor looking at java Scripts lets calairfy some Html & Css Terms 
 ![html&Css](html_css.png)
+
+
+ #### Before you learn how to read and write in js languge itself you need to become familiar with some key 
+![key](js1.png)
+
+
+## How to write a Script :
+1. Set your goal 
+2. list the task 
+3. complete the task in order to achive it 
+
+
