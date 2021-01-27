@@ -33,8 +33,17 @@ You can use the JS to :
 
 
 ## How to write a Script :
-1. Set your goal 
-2. list the task 
-3. complete the task in order to achive it 
+* To write a Script you need at first
+    1. Set your goal 
+    2. list the task 
+    3. complete the task in order to achive it 
+
+
+* Start with a big picture 
+> After setting the goal 
+    * Define it 
+    * Design the Script for it 
+    * Code each steps 
+
 
 
