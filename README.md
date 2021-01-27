@@ -12,3 +12,4 @@ You can Find me out on :
 3. [GitHub](https://mohdazzam.github.io/reading-notes/read02b)
 4. [Stackoverflow](https://mohdazzam.github.io/reading-notes/stackoverflow)
 5. [HTML](https://mohdazzam.github.io/reading-notes/html)
+6. [JavaScript](https://mohdazzam.github.io/reading-notes/js)

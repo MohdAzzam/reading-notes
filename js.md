@@ -25,11 +25,11 @@ You can use the JS to :
 1. React 
 
 > Befor looking at java Scripts lets calairfy some Html & Css Terms 
-![html&Css](html_css.png)
+![html&Css](https://mohdazzam.github.io/reading-notes/html_css.png)
 
 
  #### Before you learn how to read and write in js languge itself you need to become familiar with some key 
-![key](js1.png)
+![key](https://mohdazzam.github.io/reading-notes/js1.png)
 
 
 ## How to write a Script :
@@ -47,3 +47,21 @@ You can use the JS to :
 
 
 
+
+#### Expressinon 
+>An expressinon evaluate into result in a single value.  
+
+* There are two type of expressinon
+    1. Assign value to variable `var  animal="Cow"`
+    1. Two or more value to return one value `var area =7*5`
+
+
+###### Operators
+> Expression relay on somthing called operators 
+    * the type of it :
+        1. Assigment operators `color = "red"`
+        1. Arithmatic operators `area = 3 * 2`
+        1. String operators `name = "mohammad" + "Azzam" `
+        1. Comparison operators `b = 3 > 5` the value True or False
+        1. Logical operators  `ax = (5>3) &&  (3 <5 )` it's return false if one of them false and true if both of them are true
+ 
