@@ -9,10 +9,10 @@
 1.   `!=` it mean is **not equal to** . `5 != 5` the result false .
 1. `===` **Strict Equal** it mean is it equal to it and have the same type of input data `5 === '5'` here it will return false because we compare between the value and the data type.
 1. `!==` **Strict Not Equal** it's do the inverse of `===` 
-1. '>' Greater than is the first value greater than the second one `5 > 3` 
-1. '<' Less than is the first value less than the second one `5 < 3`
-1. '>=' Greater than or equal is the first value greater than or equal  the second one `5 > 3`
-1. '<=' Less than or equal is the first value less than or equal  the second one `5 < 3`
+1. `>` Greater than is the first value greater than the second one `5 > 3` 
+1. `<` Less than is the first value less than the second one `5 < 3`
+1. `>=` Greater than or equal is the first value greater than or equal  the second one `5 > 3`
+1. `<=` Less than or equal is the first value less than or equal  the second one `5 < 3`
 
 
 
