@@ -5,7 +5,7 @@
 
 ### This is a list of operators :
 
-1. `==` it mean is **equal t`5==5` the result of this example is `true` this operation it's just to compare a value if you see `5 =='5' ` it will return true also as we said it compare the value
+1. `==` it mean is **equal to** `5==5` the result of this example is `true` this operation it's just to compare a value if you see `5 =='5' ` it will return true also as we said it compare the value
 1.   `!=` it mean is **not equal to** . `5 != 5` the result false .
 1. `===` **Strict Equal** it mean is it equal to it and have the same type of input data `5 === '5'` here it will return false because we compare between the value and the data type.
 1. `!==` **Strict Not Equal** it's do the inverse of `===` 
