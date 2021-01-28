@@ -1,4 +1,4 @@
-# Comparison operators
+# Comparison operators
 
 > You can evaluate a situation by comparing one value in the script to what you expected it might be. The Result will be a Boolean : `true or false`
 
