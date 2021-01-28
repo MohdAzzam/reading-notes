@@ -2,7 +2,8 @@
 
 > You can evaluate a situation by comparing one value in the script to what you expected it might be. The Result will be a Boolean : `true or false`
 
-### This is a list of operators :
+
+### This is a list of operators :
 
 1. `==` it mean is **equal t`5==5` the result of this example is `true` this operation it's just to compare a value if you see `5 =='5' ` it will return true also as we said it compare the value
 1.   `!=` it mean is **not equal to** . `5 != 5` the result false .
@@ -17,11 +18,11 @@
 
 > All the Result of these operators it should be a Boolean .
 
-## Loops
+## Loops
 
 > Loops check condition if it's true the block of code will run. Then the condition will be checked again if is still true the code block will work again , it will repeat until the condition become a false
 
-- Type Of Loops : 
+** Type Of Loops :** 
   ![typeofloop](https://mohdazzam.github.io/reading-notes/typepfloop.png)
 
   1. `for(loop counter initialization ;CONDITION_UPDATE){//code}`
