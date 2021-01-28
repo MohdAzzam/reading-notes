@@ -22,7 +22,7 @@
 
 > Loops check condition if it's true the block of code will run. Then the condition will be checked again if is still true the code block will work again , it will repeat until the condition become a false
 
-** Type Of Loops :** 
+**Type Of Loops:** 
   ![typeofloop](https://mohdazzam.github.io/reading-notes/typepfloop.png)
 
   1. `for(loop counter initialization ;CONDITION_UPDATE){//code}`
