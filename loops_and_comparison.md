@@ -25,6 +25,6 @@
 **Type Of Loops:** 
   ![Loop](https://mohdazzam.github.io/reading-notes/typeofloop.png)
 
-  1. `for(loop counter initialization ;CONDITION_UPDATE){//code}`
+  1. `for(loop counter initialization ;CONDITION;counter_UPDATE){//code}`
   2. `while(CONDITION){//code and COUNTER}`
   3. `do(){//code} while(CONDITION)`
