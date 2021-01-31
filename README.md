@@ -14,3 +14,4 @@ You can Find me out on :
 5. [HTML](https://mohdazzam.github.io/reading-notes/html)
 6. [JavaScript](https://mohdazzam.github.io/reading-notes/js)
 7. [Loops&Compirison](https://mohdazzam.github.io/reading-notes/loops_and_comparison)
+8. [CSS](https://mohdazzam.github.io/reading-notes/css)
