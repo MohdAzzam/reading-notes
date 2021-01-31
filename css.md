@@ -38,7 +38,7 @@ Example Styles
 >  CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule          contains two parts: a s`elector and a declaration`.
 
 
-![css](https://mohdazzam.github.io/-reading-notes/css.png)
+![css](https://mohdazzam.github.io/reading-notes/css.png)
 
 
 
@@ -51,7 +51,7 @@ Example Styles
 
 #### Selectors 
 
-![css](https://mohdazzam.github.io/-reading-notes/selector.png)
+![css](https://mohdazzam.github.io/reading-notes/selector.png)
 
 # Summary
 
