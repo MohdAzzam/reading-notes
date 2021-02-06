@@ -23,18 +23,18 @@ You can Find me on :
 
 ### Code 201 Reading Notes
 --------------------------------------------
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1. [ Text for the link ](URL)
+2. [ Text for the link ](URL)
+3. [ Text for the link ](URL)
+4. [ Text for the link ](URL)
+5. [ Text for the link ](URL)
+6. [ Text for the link ](URL)
+7. [ Text for the link ](URL)
+8. [ Text for the link ](URL)
+9. [ Text for the link ](URL)
+10. [ Text for the link ](URL)
+11. [ Text for the link ](URL)
+12. [ Text for the link ](URL)
+13. [ Text for the link ](URL)
+14. [ Text for the link ](URL)
+15. [ Text for the link ](URL)
