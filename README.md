@@ -23,7 +23,7 @@ You can Find me on :
 
 ### Code 201 Reading Notes
 --------------------------------------------
-1. [ Text for the link ](URL)
+1. [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)
 2. [ Text for the link ](URL)
 3. [ Text for the link ](URL)
 4. [ Text for the link ](URL)
