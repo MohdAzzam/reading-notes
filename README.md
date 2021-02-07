@@ -26,38 +26,22 @@ You can Find me on :
 
 ### Code 201 Reading Notes
 --------------------------------------------
-<<<<<<< HEAD
-1. [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)
-2. [ Text Html Css JS ](https://mohdazzam.github.io/reading-notes/class-02)
-3. [ Text for the link ](URL)
-4. [ Text for the link ](URL)
-5. [ Text for the link ](URL)
-6. [ Text for the link ](URL)
-7. [ Text for the link ](URL)
-8. [ Text for the link ](URL)
-9. [ Text for the link ](URL)
-10. [ Text for the link ](URL)
-11. [ Text for the link ](URL)
-12. [ Text for the link ](URL)
-13. [ Text for the link ](URL)
-14. [ Text for the link ](URL)
-15. [ Text for the link ](URL)
-=======
 
 | #             | Title         |
 | ------------- | ------------- |
-| 1.            | [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
-| 1.  | Content Cell  |
->>>>>>> e2e61834d3534b63404b3989c18e6adb865f89de
+| 1.            | [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)       |
+| 2.            | [ Text Html Css JS ](https://mohdazzam.github.io/reading-notes/class-02)  |
+| 3.  | Content Cell  |
+| 4.  | Content Cell  |
+| 5.  | Content Cell  |
+| 6.  | Content Cell  |
+| 7.  | Content Cell  |
+| 8.  | Content Cell  |
+| 9.  | Content Cell  |
+| 10.  | Content Cell  |
+| 11.  | Content Cell  |
+| 12.  | Content Cell  |
+| 13.  | Content Cell  |
+| 14.  | Content Cell  |
+| 15.  | Content Cell  |
+
