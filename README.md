@@ -26,7 +26,7 @@ You can Find me on :
 
 ### Code 201 Reading Notes
 --------------------------------------------
-1. 
+
 | #             | Title         |
 | ------------- | ------------- |
 | 1.            | [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)  |
