@@ -12,29 +12,34 @@ You can Find me on :
 
 ### Code 102 Reading Notes
 ------------------------------------------------------------
-1. [Growth Mindset](https://mohdazzam.github.io/reading-notes/growthmindset)
-2. [MarkDown](https://mohdazzam.github.io/reading-notes/read02a)
-3. [GitHub](https://mohdazzam.github.io/reading-notes/read02b)
-4. [Stackoverflow](https://mohdazzam.github.io/reading-notes/stackoverflow)
-5. [HTML](https://mohdazzam.github.io/reading-notes/html)
-6. [JavaScript](https://mohdazzam.github.io/reading-notes/js)
-7. [Loops&Compirison](https://mohdazzam.github.io/reading-notes/loops_and_comparison)
-8. [CSS](https://mohdazzam.github.io/reading-notes/css)
+| #          | Title         |
+| ---------- | ------------- |
+| 1.         | [Growth Mindset](https://mohdazzam.github.io/reading-notes/growthmindset) |
+| 1.         | [MarkDown](https://mohdazzam.github.io/reading-notes/read02a) |
+| 1.         | [GitHub](https://mohdazzam.github.io/reading-notes/read02b) |
+| 1.         | [Stackoverflow](https://mohdazzam.github.io/reading-notes/stackoverflow)|
+| 1.         | [HTML](https://mohdazzam.github.io/reading-notes/html) |
+| 1.         | [JavaScript](https://mohdazzam.github.io/reading-notes/js) |
+| 1.         |  [Loops&Compirison](https://mohdazzam.github.io/reading-notes/loops_and_comparison) |
+| 1.         |  [CSS](https://mohdazzam.github.io/reading-notes/css) |
+
 
 ### Code 201 Reading Notes
 --------------------------------------------
-1. [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)
-2. [ Text for the link ](URL)
-3. [ Text for the link ](URL)
-4. [ Text for the link ](URL)
-5. [ Text for the link ](URL)
-6. [ Text for the link ](URL)
-7. [ Text for the link ](URL)
-8. [ Text for the link ](URL)
-9. [ Text for the link ](URL)
-10. [ Text for the link ](URL)
-11. [ Text for the link ](URL)
-12. [ Text for the link ](URL)
-13. [ Text for the link ](URL)
-14. [ Text for the link ](URL)
-15. [ Text for the link ](URL)
+1. 
+| #             | Title         |
+| ------------- | ------------- |
+| 1.            | [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
+| 1.  | Content Cell  |
