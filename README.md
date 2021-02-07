@@ -24,7 +24,7 @@ You can Find me on :
 ### Code 201 Reading Notes
 --------------------------------------------
 1. [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)
-2. [ Text for the link ](URL)
+2. [ Text Html Css JS ](https://mohdazzam.github.io/reading-notes/class-02)
 3. [ Text for the link ](URL)
 4. [ Text for the link ](URL)
 5. [ Text for the link ](URL)
