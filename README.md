@@ -31,7 +31,7 @@ You can Find me on :
 | ------------- | ------------- |
 | 1.            | [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)       |
 | 2.            | [ Text Html Css JS ](https://mohdazzam.github.io/reading-notes/class-02)  |
-| 3.            | [ Lists Css Box Control flow in js  ](https://mohdazzam.github.io/reading-notes/class-02) |
+| 3.            | [ Lists Css Box Control flow in js  ](https://mohdazzam.github.io/reading-notes/read03a) |
 | 4.  | Content Cell  |
 | 5.  | Content Cell  |
 | 6.  | Content Cell  |
