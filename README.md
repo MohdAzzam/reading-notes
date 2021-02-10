@@ -12,8 +12,8 @@ You can Find me on :
 
 ### Code 102 Reading Notes
 ------------------------------------------------------------
-| #          | Title                                                                               |
-| ---------- | ----------------------------------------------------------------------------------- |
+| #          | Title |
+| ---------- | ------|
 | 1.         | [Growth Mindset](https://mohdazzam.github.io/reading-notes/growthmindset) |
 | 1.         | [MarkDown](https://mohdazzam.github.io/reading-notes/read02a) |
 | 1.         | [GitHub](https://mohdazzam.github.io/reading-notes/read02b) |
@@ -32,8 +32,8 @@ You can Find me on :
 | 1.            | [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)       |
 | 2.            | [ Text Html Css JS ](https://mohdazzam.github.io/reading-notes/class-02)  |
 | 3.            | [ Lists Css Box Control flow in js  ](https://mohdazzam.github.io/reading-notes/read03a) |
-| 4.  |[Intro To Css layout]((https://mohdazzam.github.io/reading-notes/read03b))  |
-| 5.  | Content Cell  |
+| 4.  |[Intro To Css layout]((https://mohdazzam.github.io/reading-notes/0read03b))  |
+| 5.  | [Images-Colors-Text](https://mohdazzam.github.io/reading-notes/images-colors-text) |
 | 6.  | Content Cell  |
 | 7.  | Content Cell  |
 | 8.  | Content Cell  |
