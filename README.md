@@ -34,7 +34,7 @@ You can Find me on :
 | 3.            | [ Lists Css Box Control flow in js  ](https://mohdazzam.github.io/reading-notes/read03a) |
 | 4.  |[Intro To Css layout]((https://mohdazzam.github.io/reading-notes/0read03b))  |
 | 5.  | [Images-Colors-Text](https://mohdazzam.github.io/reading-notes/images-colors-text) |
-| 6.  | Content Cell  |
+| 6.  | [Object and DOM](https://mohdazzam.github.io/reading-notes/object)  |
 | 7.  | Content Cell  |
 | 8.  | Content Cell  |
 | 9.  | Content Cell  |
