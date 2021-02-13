@@ -8,17 +8,17 @@ variables and functions take on new names.
 - IN AN OBJECT: VARIABLES BECOME KNOWN AS PROPERTIES
 - IN AN OBJECT: FUNCTIONS BECOME KNOWN AS METHODS
 
-`    let hotel = {
-        'name': 'Azzam',
-        'rooms': 40,
-        'booked' : 30 ,
-        'gym':true,
-        'roomTypes':['wwin','double','suite'],
-        checkAvailability : function (){
-            return this.rooms->this.booked;
-        }
-    } 
-`
+`    let hotel = {`
+       ` 'name': 'Azzam',`
+       ` 'rooms': 40,`
+       ` 'booked' : 30 ,`
+       ` 'gym':true,`
+       ` 'roomTypes':['wwin','double','suite'],`
+     `   checkAvailability : function (){`
+       `     return this.rooms->this.booked;`
+   `     }`
+ `   } `
+
 * Programmers use a lot of name/value pairs:
   1. HTML uses attribute names and values.
   2. CSS uses property names and values.
@@ -58,21 +58,21 @@ THE DOM TREE IS A MODEL OF A WEB PAGE
 
 **
 
-`<html>
-<body>
-<di v id="page">
-<hl id="header">List</hl>
-<h2>Buy groceries</h2>
-<ul>
-<li id="one" class="hot"><em>fresh</em> figs</li>
-<li id="two" class="hot">pine nuts</l i>
-<l i id="three" class="hot">honey</l i>
-<l i id="four">balsamic vinegar</l i>
-</ ul>
-<script src="js/l i st. js "></scri pt>
-</ div>
-</ body>
-</ html>`
+`<html>`
+`<body>`
+`<div id="page">`
+`<hl id="header">List</hl>`
+`<h2>Buy groceries</h2>`
+`<ul>`
+`<li id="one" class="hot"><em>fresh</em> figs</li>`
+`<li id="two" class="hot">pine nuts</l i>`
+`<li id="three" class="hot">honey</l i>`
+`<l i id="four">balsamic vinegar</l i>`
+`</ ul>`
+`<script src="js/l i st. js "></scri pt>`
+`</ div>`
+`</ body>`
+`</ html>`
 
 
 WORKING WITH THE DOM TREE 
