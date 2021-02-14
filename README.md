@@ -35,7 +35,7 @@ You can Find me on :
 | 4.  |[Intro To Css layout]((https://mohdazzam.github.io/reading-notes/0read03b))  |
 | 5.  | [Images-Colors-Text](https://mohdazzam.github.io/reading-notes/images-colors-text) |
 | 6.  | [Object and DOM](https://mohdazzam.github.io/reading-notes/object)  |
-| 7.  | Content Cell  |
+| 7.  | [Domain modeling HTML table & Js function](https://mohdazzam.github.io/reading-notes/read07)  |
 | 8.  | Content Cell  |
 | 9.  | Content Cell  |
 | 10.  | Content Cell  |
