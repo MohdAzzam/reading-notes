@@ -32,7 +32,7 @@ You can Find me on :
 | 1.            | [ Reading 201 ](https://mohdazzam.github.io/reading-notes/class-01)       |
 | 2.            | [ Text Html Css JS ](https://mohdazzam.github.io/reading-notes/class-02)  |
 | 3.            | [ Lists Css Box Control flow in js  ](https://mohdazzam.github.io/reading-notes/read03a) |
-| 4.  |[Intro To Css layout](https://mohdazzam.github.io/reading-notes/0read03b) |
+| 4.  |[Intro To Css layout](https://mohdazzam.github.io/reading-notes/read03b) |
 | 5.  | [Images-Colors-Text](https://mohdazzam.github.io/reading-notes/images-colors-text) |
 | 6.  | [Object and DOM](https://mohdazzam.github.io/reading-notes/object)  |
 | 7.  | [Domain modeling HTML table & Js function](https://mohdazzam.github.io/reading-notes/read07)  |
