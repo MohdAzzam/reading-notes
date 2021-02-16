@@ -1,8 +1,8 @@
 # Layout
 
 #### Building Blocks
+
 Css treat each HTML elements as a box 
--------------------------------
 There are two key concepts in postioning elements 
 
 1. Block : `<h1> <p> <ul> <li> ` 
