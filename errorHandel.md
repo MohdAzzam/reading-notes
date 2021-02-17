@@ -9,7 +9,9 @@
 
 1. Global context Code that is in the script, but not in a function. There is only one global context in any page.
 2. FUNCTION CONTEXT Code that is being run within a function. Each function has its own function context.
-3. EVAL CONTEXT (NOT SHOWN) Text is executed like code in an internal function called eval()
+3. Eval contex  Text is executed like code in an internal function called eval()
+
+
 ---------------------------------------------
 
 * VARIABLE SCOPE The first two execution contexts correspond with the notion of scope
@@ -24,7 +26,9 @@ Js interpreter process the code line by line
 when we call a function and inside this function we call another function the first function will waiting untll function number two finish 
 
 ### EXECUTION CONTEXT & HOISTING
+
 Each time a script enters a new execution context 
+
 1. PREPARE
    * The new scope is created
    * Variables, functions, and arguments are created
@@ -33,6 +37,8 @@ Each time a script enters a new execution context
    * Now it can assign values to variables
    * Reference functions and run their code
    * Execute statements
+
+
 ---------------------------------------------
 
 
