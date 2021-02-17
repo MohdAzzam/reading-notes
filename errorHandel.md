@@ -5,7 +5,9 @@
 2. EXECUTION CONTEXTS :The JavaScript interpreter uses the concept of execution contexts. There is one global execution context; plus, each function creates a new execution context. They correspond to variable scope. 
 
 ------------------------------------------------
-1. GLOBAL CONTEXT Code that is in the script, but not in a function. There is only one global context in any page.
+
+
+1. Global context Code that is in the script, but not in a function. There is only one global context in any page.
 2. FUNCTION CONTEXT Code that is being run within a function. Each function has its own function context.
 3. EVAL CONTEXT (NOT SHOWN) Text is executed like code in an internal function called eval()
 ---------------------------------------------
