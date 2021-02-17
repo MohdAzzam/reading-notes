@@ -38,7 +38,7 @@ You can Find me on :
 | 7.  | [Domain modeling HTML table & Js function](https://mohdazzam.github.io/reading-notes/read07)  |
 | 8.  | [ updated Layout ](https://mohdazzam.github.io/reading-notes/updatedLayout)  |
 | 9.  | [Form and Js Event](https://mohdazzam.github.io/reading-notes/fromandJsEvent)  |
-| 10.  | Content Cell  |
+| 10.  | [Error Handel](https://mohdazzam.github.io/reading-notes/errorHandel)  |
 | 11.  | Content Cell  |
 | 12.  | Content Cell  |
 | 13.  | Content Cell  |
