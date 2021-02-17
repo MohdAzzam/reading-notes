@@ -51,6 +51,8 @@ Each time a script enters a new execution context
 5. Range Error Numbers not in acceptable range
 6. URI Error encodeURI ().decodeURI(),and similar methods used incorrectly
 7. Eval Error eval() function used incorrectly
+
+
 ---------------------------------------------
 
 
