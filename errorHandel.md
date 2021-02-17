@@ -50,7 +50,7 @@ Each time a script enters a new execution context
 4. TypeError An unexpected data type that cannot be coerced
 5. Range Error Numbers not in acceptable range
 6. URI Error encodeURI ().decodeURI(),and similar methods used incorrectly
-7. EvalError eval() function used incorrectly
+7. Eval Error eval() function used incorrectly
 ---------------------------------------------
 
 
