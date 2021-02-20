@@ -1,12 +1,10 @@
 # Images 
 
 `<img src=""/>`
-------------------------------------------------------
-
+------------------------------------------------------ 
 Controlling sizes of images in CSS using `width and hight` properties . 
+Image is inline element we can change his properties using `display:block` we can also float image using `float` properties 
 
-Image is inline element we can change his properties using `display:block`
-we can also float image using `float` properties 
 -------------------------------------------------------
 Background images can appear just once or be repeated across the background of the box.
     specify the dimensions of images using CSS.
