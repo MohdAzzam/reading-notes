@@ -40,7 +40,7 @@ You can Find me on :
 | 9.  | [Form and Js Event](https://mohdazzam.github.io/reading-notes/fromandJsEvent)  |
 | 10.  | [Error Handel](https://mohdazzam.github.io/reading-notes/errorHandel)  |
 | 11.  | [Assorted Topic](https://mohdazzam.github.io/reading-notes/AssortedTopic)  |
-| 12.  | [canvas Element Chart](https://mohdazzam.github.io/reading-notes/canvasElementChart) |
+| 12.  | [canvas Element Chart](https://mohdazzam.github.io/reading-notes/canvasElementChart)|
 | 13.  | Content Cell  |
 | 14.  | Content Cell  |
 | 15.  | Content Cell  |
