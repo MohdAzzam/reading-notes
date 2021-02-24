@@ -111,4 +111,4 @@ Structure and clarity: Everyone knows what their specific expectations are. Thes
 2. a high overall level of social sensitivity 
 
 
--------------------------------------------------------------
+------------------------------------------------------------- 
