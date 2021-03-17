@@ -12,16 +12,16 @@ You can Find me on :
 
 ### Code 102 Reading Notes
 ------------------------------------------------------------
-| #          | Title |
-| ---------- | ----- |
+| #             | Title         |
+| ------------- | ------------- |
 | 1.         | [Growth Mindset](https://mohdazzam.github.io/reading-notes/growthmindset) |
-| 1.         | [MarkDown](https://mohdazzam.github.io/reading-notes/read02a) |
-| 1.         | [GitHub](https://mohdazzam.github.io/reading-notes/read02b) |
-| 1.         | [Stackoverflow](https://mohdazzam.github.io/reading-notes/stackoverflow)|
-| 1.         | [HTML](https://mohdazzam.github.io/reading-notes/html) |
-| 1.         | [JavaScript](https://mohdazzam.github.io/reading-notes/js) |
-| 1.         |  [Loops&Compirison](https://mohdazzam.github.io/reading-notes/loops_and_comparison) |
-| 1.         |  [CSS](https://mohdazzam.github.io/reading-notes/css) |
+| 2.         | [MarkDown](https://mohdazzam.github.io/reading-notes/read02a) |
+| 3.         | [GitHub](https://mohdazzam.github.io/reading-notes/read02b) |
+| 4.         | [Stackoverflow](https://mohdazzam.github.io/reading-notes/stackoverflow)|
+| 5.         | [HTML](https://mohdazzam.github.io/reading-notes/html) |
+| 6.         | [JavaScript](https://mohdazzam.github.io/reading-notes/js) |
+| 7.         |  [Loops&Compirison](https://mohdazzam.github.io/reading-notes/loops_and_comparison) |
+| 8.         |  [CSS](https://mohdazzam.github.io/reading-notes/css) |
 
 
 ### Code 201 Reading Notes
