@@ -13,7 +13,7 @@ You can Find me on :
 ### Code 102 Reading Notes
 ------------------------------------------------------------
 | #          | Title |
-| ---------- | ------|
+| ---------- | ----- |
 | 1.         | [Growth Mindset](https://mohdazzam.github.io/reading-notes/growthmindset) |
 | 1.         | [MarkDown](https://mohdazzam.github.io/reading-notes/read02a) |
 | 1.         | [GitHub](https://mohdazzam.github.io/reading-notes/read02b) |
