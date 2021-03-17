@@ -10,8 +10,9 @@ You can Find me on :
 
 ## Table of Contents
 
-### Code 102 Reading Notes
-------------------------------------------------------------
+### Code 102 Intro to Software Development
+--------------------------------------------
+
 | #             | Title         |
 | ------------- | ------------- |
 | 1. | [Growth Mindset](https://mohdazzam.github.io/reading-notes/growthmindset) |
@@ -24,7 +25,7 @@ You can Find me on :
 | 8. | [CSS](https://mohdazzam.github.io/reading-notes/css) |
 
 
-### Code 201 Reading Notes
+### Code 201 Foundations of Software Development
 --------------------------------------------
 
 | #             | Title         |
