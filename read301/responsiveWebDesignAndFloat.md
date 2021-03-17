@@ -5,13 +5,13 @@
 > The Internet took off quicker than anyone would have predicted, growing like crazy. Now, for the past few years, mobile growth has exploded onto the scene. The growth of mobile Internet usage is also far out pacing that of general Internet usage growth
 > With the growth in mobile Internet usage comes the question of how to build websites suitable for all users. The industry response to this question has become responsive web design, also known as RWD.
 
--------------------------------------------------------------;
+-------------------------------------------------------------
 
 ## Responsive Overview
 
 Practice of building a website suitable to work on every device and every screen size, no matter how large or small, mobile or desktop.
 
---------------------------------------------------------;
+--------------------------------------------------------
 
 ### Responsive vs. Adaptive vs. Mobile
 
@@ -36,7 +36,7 @@ One popular technique with using media queries is called mobile first. The mobil
 __Flexible Media__
 The final, equally important aspect to responsive web design involves flexible media. As viewports begin to change size media doesn’t always follow suit. Images, videos, and other media types need to be scalable, changing their size as the size of the viewport changes.
 
------------------------------------------------------------;
+-----------------------------------------------------------
 
 ## All About Floats
 
