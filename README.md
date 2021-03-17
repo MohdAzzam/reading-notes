@@ -55,7 +55,7 @@ You can Find me on :
 
 | #             | Title         |
 | ------------- | ------------- |
-| 1.  |[responsiveWebDesignAndFloat](https://mohdazzam.github.io/reading-notes/read301/responsiveWebDesignAndFloat.md) |
+| 1.  |[responsiveWebDesignAndFloat](https://mohdazzam.github.io/reading-notes/read301/responsiveWebDesignAndFloat) |
 | 2.  | |
 | 3.  | |
 | 4.  | |
