@@ -1,10 +1,11 @@
 # Javascript Templating Language and Engine— Mustache.js with Node and Express
 
- ### Templeting 
+### Templeting 
 
  > Javascript templating is a fast and efficient technique to render client-side view templates with Javascript by using a JSON data source. The template is HTML markup, with added templating tags that will either insert variables or run programming logic.The template engine then replaces variables and instances declared in a template file with actual values at runtime, and convert the template into an HTML file sent to the client.
 
- ------------
+ -------------------------------
+
 #### Mustache 
 >Mustache is a logic-less template syntax. It can be used for HTML, config files, source code — anything. It works by expanding tags in a template using values provided in a hash or object.
 
@@ -16,10 +17,7 @@ It is often referred to as `“logic-less”` because there are no if statements
 
 Mustache is NOT a templating engine. Mustache is a specification for a templating language. In general, we would write templates according to the Mustache specification, and it can then be compiled by a templating engine to be rendered to create an output.
 
-
-
 -------------------------------------
-
 
 ## Flex Box Layout 
 
@@ -50,6 +48,7 @@ cross-start | cross-end – Flex lines are filled with items and placed into the
 cross size – The width or height of a flex item, whichever is in the cross dimension, is the item’s cross size. The cross size property is whichever of ‘width’ or ‘height’ that is in the cross dimension.
 
 ------------------------------
+
 ##### Flexbox properties 
 
 1. Properties for the Parent(flex container)
@@ -69,6 +68,7 @@ cross size – The width or height of a flex item, whichever is in the cross dim
    6. align-self
 
 --------------------------
+
 #### Prefixing Flexbox 
 
 Flexbox requires some vendor prefixing to support the most browsers possible. It doesn’t just include prepending properties with the vendor prefix, but there are actually entirely different property and value names. This is because the Flexbox spec has changed over time, creating an “old”, “tweener”, and “new” versions.
