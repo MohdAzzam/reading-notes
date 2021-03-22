@@ -56,7 +56,7 @@ You can Find me on :
 | #             | Title         |
 | ------------- | ------------- |
 | 1.  |[responsiveWebDesignAndFloat](https://mohdazzam.github.io/reading-notes/read301/responsiveWebDesignAndFloat) |
-| 2.  | |
+| 2.  | [jQuery Event and DOM](https://mohdazzam.github.io/reading-notes/read301/jqueryEventsAndDoms)|
 | 3.  | |
 | 4.  | |
 | 5.  | |
