@@ -58,8 +58,8 @@ You can Find me on :
 | 1.  |[responsiveWebDesignAndFloat](https://mohdazzam.github.io/reading-notes/read301/responsiveWebDesignAndFloat) |
 | 2.  | [jQuery Event and DOM](https://mohdazzam.github.io/reading-notes/read301/jqueryEventsAndDoms)|
 | 3.  | [mustacheAndFlexBox](https://mohdazzam.github.io/reading-notes/read301/mustacheAndFlexBox)|
-| 4.  | |
-| 5.  | |
+| 4.  |[cssGridAndRegex](https://mohdazzam.github.io/reading-notes/read301/cssGridAndRegex) |
+| 5.  | [Heroku](https://mohdazzam.github.io/reading-notes/read301/heroku.md) |
 | 6.  | |
 | 7.  | |
 | 8.  | |
