@@ -60,7 +60,7 @@ You can Find me on :
 | 3.  | [mustacheAndFlexBox](https://mohdazzam.github.io/reading-notes/read301/mustacheAndFlexBox)|
 | 4.  |[cssGridAndRegex](https://mohdazzam.github.io/reading-notes/read301/cssGridAndRegex) |
 | 5.  | [Heroku](https://mohdazzam.github.io/reading-notes/read301/heroku) |
-| 6.  | |
+| 6.  | [NODE JS](https://mohdazzam.github.io/reading-notes/read301/nodejs) |
 | 7.  | |
 | 8.  | |
 | 9.  | |
