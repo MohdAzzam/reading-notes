@@ -62,7 +62,7 @@ You can Find me on :
 | 5.  | [Heroku](https://mohdazzam.github.io/reading-notes/read301/heroku) |
 | 6.  | [NODE JS](https://mohdazzam.github.io/reading-notes/read301/nodejs) |
 | 7.  | [APIs](https://mohdazzam.github.io/reading-notes/read301/APIs) |
-| 8.  | |
+| 8.  | [SQL](https://mohdazzam.github.io/reading-notes/read301/sql) |
 | 9.  | |
 | 10. | |
 | 11. | |
