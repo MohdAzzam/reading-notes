@@ -63,7 +63,7 @@ You can Find me on :
 | 6.  | [NODE JS](https://mohdazzam.github.io/reading-notes/read301/nodejs) |
 | 7.  | [APIs](https://mohdazzam.github.io/reading-notes/read301/APIs) |
 | 8.  | [SQL](https://mohdazzam.github.io/reading-notes/read301/sql) |
-| 9.  | |
+| 9.  | [functional Programing](https://mohdazzam.github.io/reading-notes/read301/functional) |
 | 10. | |
 | 11. | |
 | 12. | |
