@@ -66,7 +66,7 @@ You can Find me on :
 | 9.  | [functional Programing](https://mohdazzam.github.io/reading-notes/read301/functional) |
 | 10. | [callStack](https://mohdazzam.github.io/reading-notes/read301/callstack)|
 | 11. | [EJS](https://mohdazzam.github.io/reading-notes/read301/ejs)|
-| 12. | |
+| 12. | [EJS Partials](https://mohdazzam.github.io/reading-notes/read301/component)|
 | 13. | |
 | 14. | |
 | 15. | |
