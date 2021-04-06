@@ -68,5 +68,5 @@ You can Find me on :
 | 11. | [EJS](https://mohdazzam.github.io/reading-notes/read301/ejs)|
 | 12. | [EJS Partials](https://mohdazzam.github.io/reading-notes/read301/component)|
 | 13. | [updateAndDelete](https://mohdazzam.github.io/reading-notes/read301/updateAndDelete)|
-| 14. | |
+| 14. | [Normalization](https://mohdazzam.github.io/reading-notes/read301/Normalization)|
 | 15. | |
