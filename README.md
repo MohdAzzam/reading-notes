@@ -67,6 +67,6 @@ You can Find me on :
 | 10. | [callStack](https://mohdazzam.github.io/reading-notes/read301/callstack)|
 | 11. | [EJS](https://mohdazzam.github.io/reading-notes/read301/ejs)|
 | 12. | [EJS Partials](https://mohdazzam.github.io/reading-notes/read301/component)|
-| 13. | |
+| 13. | [updateAndDelete](https://mohdazzam.github.io/reading-notes/read301/updateAndDelete)|
 | 14. | |
 | 15. | |
