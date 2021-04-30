@@ -94,6 +94,7 @@ let cityNormalPromis =(name)=>{
 -----------------------------------
 
 > With `async` / `await` syntax
+
 ```
 async function city(name){
   try{
@@ -105,11 +106,10 @@ async function city(name){
     console.error('ERROR While you call ')
     }
   }
-
+```
 city('seattle');
 city('amman');
 city('irbid');
-```
 
 -----------------------------------
 
