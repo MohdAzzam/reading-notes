@@ -50,7 +50,7 @@ Code=> Build=> Test=> Deploy=> Provision
 Helpful YouTube links:
 1. [What is CICD?](https://www.youtube.com/watch?v=N9KbmHhesmE)
 
-2. [DevOps CI/CD Explained in 100 Seconds] (https://www.youtube.com/watch?v=scEDHsr3APg)
+2. [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
 
 ----------------------------------------------------------
 
