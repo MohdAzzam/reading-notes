@@ -82,7 +82,7 @@ You can Find me on :
 | 1.  |[Problem Solving 5 whys 1000$ per hour ](https://mohdazzam.github.io/reading-notes/read-401/read01) |
 | 2.  |[map(),reduce(),superAgent,Promises](https://mohdazzam.github.io/reading-notes/read-401/class01) |
 | 3.  |[Express REST API](https://mohdazzam.github.io/reading-notes/read-401/read03) |
-| 4.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
+| 4.  |[Data modeling](https://mohdazzam.github.io/reading-notes/read-401/read04) |
 | 5.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 6.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 7.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
