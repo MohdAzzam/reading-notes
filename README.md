@@ -83,7 +83,7 @@ You can Find me on :
 | 2.  |[map(),reduce(),superAgent,Promises](https://mohdazzam.github.io/reading-notes/read-401/class01) |
 | 3.  |[Express REST API](https://mohdazzam.github.io/reading-notes/read-401/read03) |
 | 4.  |[Data modeling](https://mohdazzam.github.io/reading-notes/read-401/read04) |
-| 5.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
+| 5.  |[Linked List](https://mohdazzam.github.io/reading-notes/read-401/read05) |
 | 6.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 7.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 8.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
