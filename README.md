@@ -86,7 +86,7 @@ You can Find me on :
 | 5.  |[Linked List](https://mohdazzam.github.io/reading-notes/read-401/read05) |
 | 6.  |[Authentication](https://mohdazzam.github.io/reading-notes/read-401/read06) |
 | 7.  |[Bearer Authorization](https://mohdazzam.github.io/reading-notes/read-401/read07) |
-| 8.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
+| 8.  |[Access Control (ACL)](https://mohdazzam.github.io/reading-notes/read-401/read08) |
 | 9.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 10.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 11.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
