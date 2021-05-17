@@ -85,7 +85,7 @@ You can Find me on :
 | 4.  |[Data modeling](https://mohdazzam.github.io/reading-notes/read-401/read04) |
 | 5.  |[Linked List](https://mohdazzam.github.io/reading-notes/read-401/read05) |
 | 6.  |[Authentication](https://mohdazzam.github.io/reading-notes/read-401/read06) |
-| 7.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
+| 7.  |[Bearer Authorization](https://mohdazzam.github.io/reading-notes/read-401/read07) |
 | 8.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 9.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 10.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
