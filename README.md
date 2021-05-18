@@ -86,11 +86,12 @@ You can Find me on :
 | 5.  |[Linked List](https://mohdazzam.github.io/reading-notes/read-401/read05) |
 | 6.  |[Authentication](https://mohdazzam.github.io/reading-notes/read-401/read06) |
 | 7.  |[Bearer Authorization](https://mohdazzam.github.io/reading-notes/read-401/read07) |
-| 8.  |[OAuth](https://mohdazzam.github.io/reading-notes/read-401/read08) |
-| 9.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
+| 8.  |[Access Control (ACL)](https://mohdazzam.github.io/reading-notes/read-401/read08) |
+| 9.  |[OAuth](https://mohdazzam.github.io/reading-notes/read-401/read09) |
 | 10.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 11.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 12.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 13.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 14.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
 | 15.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
+| 16.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
