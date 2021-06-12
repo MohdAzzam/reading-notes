@@ -92,7 +92,20 @@ You can Find me on :
 | 11.  |[Event Driven App](https://mohdazzam.github.io/reading-notes/read-401/read11) |
 | 12.  |[Socket io](https://mohdazzam.github.io/reading-notes/read-401/read12) |
 | 13.  |[Message Queues](https://mohdazzam.github.io/reading-notes/read-401/read13) |
-| 13.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
-| 14.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
-| 15.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
-| 16.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/) |
+| 13.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/read14) |
+| 14.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/read15) |
+| 15.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/read16) |
+| 16.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/read17) |
+| 16.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/read18) |
+| 16.  |[Welcom](https://mohdazzam.github.io/reading-notes/read-401/read19) |
+
+--------------------------------------------
+
+### Code 401 - Advanced Software Development Part two
+
+--------------------------------------------
+
+| #             | Title         |
+| ------------- | ------------- |
+| 1.  |[Component Based UI](https://mohdazzam.github.io/reading-notes/read-401-part-2/read01) |
+
