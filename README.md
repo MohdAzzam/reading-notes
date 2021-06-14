@@ -108,5 +108,6 @@ You can Find me on :
 | #             | Title         |
 | ------------- | ------------- |
 | 1.  |[Component Based UI](https://mohdazzam.github.io/reading-notes/read-401-part-2/read01) |
-| 1.  |[Props and State](https://mohdazzam.github.io/reading-notes/read-401-part-2/read02) |
+| 2.  |[Props and State](https://mohdazzam.github.io/reading-notes/read-401-part-2/read02) |
+| 3.  |[Recap](https://mohdazzam.github.io/reading-notes/read-401-part-2/read03) |
 
