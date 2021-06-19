@@ -112,4 +112,5 @@ You can Find me on :
 | 3.  |[Recap](https://mohdazzam.github.io/reading-notes/read-401-part-2/read03) |
 | 4.  |[Router](https://mohdazzam.github.io/reading-notes/read-401-part-2/read04) |
 | 4.  |[Hash](https://mohdazzam.github.io/reading-notes/read-401-part-2/read05) |
+| 4.  |[HOOKS](https://mohdazzam.github.io/reading-notes/read-401-part-2/read06) |
 
