@@ -113,4 +113,5 @@ You can Find me on :
 | 4.  |[Router](https://mohdazzam.github.io/reading-notes/read-401-part-2/read04) |
 | 4.  |[Hash](https://mohdazzam.github.io/reading-notes/read-401-part-2/read05) |
 | 4.  |[HOOKS](https://mohdazzam.github.io/reading-notes/read-401-part-2/read06) |
+| 4.  |[Custom hooks](https://mohdazzam.github.io/reading-notes/read-401-part-2/read07) |
 
