@@ -11,10 +11,10 @@ Describe use cases for useMemo() and useReducer()
     2. if the app using a complex object
 
 Why do custom hooks need the `use` prefix?
-    we could distinguish between helper functions and custom hooks. 
+    we could distinguish between helper functions and custom hooks.
 
 What do custom hooks usually do?
-To share logic between components 
+To share logic between components
 
 Using any list of custom hooks, research and name one that you think will be useful in your applications
 
