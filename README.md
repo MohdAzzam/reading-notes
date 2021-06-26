@@ -117,3 +117,4 @@ You can Find me on :
 | 8.  |[Contex hooks](https://mohdazzam.github.io/reading-notes/read-401-part-2/read08) |
 | 9.  |[Auth](https://mohdazzam.github.io/reading-notes/read-401-part-2/read09) |
 | 10.  |[Auth](https://mohdazzam.github.io/reading-notes/read-401-part-2/read10) |
+| 11.  |[Auth](https://mohdazzam.github.io/reading-notes/read-401-part-2/read11) |
