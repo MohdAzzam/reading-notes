@@ -120,3 +120,4 @@ You can Find me on :
 | 11.  |[Auth](https://mohdazzam.github.io/reading-notes/read-401-part-2/read011) |
 | 12.  |[Redux](https://mohdazzam.github.io/reading-notes/read-401-part-2/read12) |
 | 13.  |[ Asynchronous Actions](https://mohdazzam.github.io/reading-notes/read-401-part-2/read13) |
+| 14.  |[ Redux - Additional Topics](https://mohdazzam.github.io/reading-notes/read-401-part-2/read14) |
