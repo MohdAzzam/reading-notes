@@ -118,4 +118,5 @@ You can Find me on :
 | 9.  |[Auth](https://mohdazzam.github.io/reading-notes/read-401-part-2/read09) |
 | 10.  |[Auth](https://mohdazzam.github.io/reading-notes/read-401-part-2/read10) |
 | 11.  |[Auth](https://mohdazzam.github.io/reading-notes/read-401-part-2/read011) |
-| 11.  |[Redux](https://mohdazzam.github.io/reading-notes/read-401-part-2/read12) |
+| 12.  |[Redux](https://mohdazzam.github.io/reading-notes/read-401-part-2/read12) |
+| 13.  |[ Asynchronous Actions](https://mohdazzam.github.io/reading-notes/read-401-part-2/read13) |
